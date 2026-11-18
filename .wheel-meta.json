@@ -1,0 +1,22 @@
+{
+  "wheel_id": 922,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-114",
+  "project": "retaining-wall-contractors-perth-how-to-choose-8c262da35fcfbcbd",
+  "parent_t1_ref": "retainingwallsperthwa-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining wall contractors perth how to choose",
+  "intended_url": "http://retaining-wall-contractors-perth-how-to-choose-8c262da35fcfbcbd.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "278bb2c8c8a283ca",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-perth-58e9e1818458f5d51caa2bebba0620/",
+      "anchor": "Retaining Wall Contractors Perth: Practical Selection Notes",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
